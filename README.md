@@ -1,1 +1,4 @@
-# ruby-app
+# DevOps 
+
+Sample Rails App 
+
